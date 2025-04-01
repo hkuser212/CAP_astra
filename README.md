@@ -1,15 +1,15 @@
 # ASTRA
 
-**ASTRA** is a powerful and scalable project designed to [briefly describe the purpose of ASTRA, e.g., automate workflows, analyze data, enhance AI capabilities, etc.].
+**ASTRA** is an intelligent and scalable system designed to automate workflows, analyze real-time data, and enhance AI-driven decision-making. 
+
+It leverages deep learning, IoT integration, and advanced recommendation models to optimize task automation and user interactions..
 
 ## 🚀 Features
-
-- **Feature 1** – Brief explanation.
-- **Feature 2** – Brief explanation.
-- **Feature 3** – Brief explanation.
+- **Feature 1** –  Uses YOLO deep learning to detect and identify objects in the environment.
+- **Feature 2** – Captures real-time sensor data to analyze user presence and activity.
+- **Feature 3** – Identifies automation opportunities and triggers IoT device commands.
 
 ## 📌 Getting Started
-
 To get started with ASTRA, follow these steps:
 
 1. **Clone the repository**
@@ -29,6 +29,5 @@ To get started with ASTRA, follow these steps:
    ```
 
 ## 🛠️ Technologies Used
-
 - Python
 - FastAPI
