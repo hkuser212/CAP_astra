@@ -19,11 +19,18 @@ To get started with ASTRA, follow these steps:
    ```sh
      cd ASTRA
    ```
-2. **Install dependencies**
+2. **Creating Virtual Environment**
+   ```sh
+     python -m venv venv
+   ```
+   ```sh
+     venv\Script\activate
+    ```
+3. **Install dependencies**
    ```sh
      pip install -r requirements.txt
    ```
-3. **Run the project**
+4. **Run the project**
    ```sh
      python status_check.py
    ```
